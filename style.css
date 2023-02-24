@@ -1,0 +1,35 @@
+html{
+    background-image: url('https://preview.redd.it/z5tq702jsdd71.jpg?auto=webp&s=cd7d2eddce367001ef57c29bf0f07ba9b3e5c474');
+    }
+    h1{
+      color: #2F4F4F;
+    }
+    p{
+      color: #2E8B57;
+    }
+    .font{
+      font-family: cursive;
+    } 
+    }
+    a:hover{
+      color: green;
+    }
+    h3.special{
+      font-size: 20px;
+    }
+    .main-list li{
+      color: #6B8E23;
+    }
+    h3,
+    h2{
+      font-family: cursive;
+      color: #2F4F4F;
+    }
+    *{
+      background-color: white;
+      opacity: 0.9;
+    }
+    .img{
+    width: 100%;
+    height: auto;
+    }
